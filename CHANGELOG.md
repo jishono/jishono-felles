@@ -10,4 +10,4 @@ All notable changes to the jisho.no project (including API and Baksida) will be 
 ![profil](https://github.com/jishono/jishono-felles/raw/master/img/200817_1.PNG)
 
 ### Changed
-- Profile page design
+- Baksida: Profile page design
