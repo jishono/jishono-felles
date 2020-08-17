@@ -1,4 +1,4 @@
-# Changelog jisho.no
+# Changelog for jisho.no
 
 All notable changes to the jisho.no project (including API and Baksida) will be documented in this file.
 
