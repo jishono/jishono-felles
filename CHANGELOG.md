@@ -4,7 +4,7 @@ All notable changes to the jisho.no project (including API and Baksida) will be 
 
 ## 2020-08-19
 ### Added
-- Baksida: It's not possible to create a new suggestion by click an existing word in the suggestion list
+- Baksida: It's now possible to create a new suggestion by click an existing word in the suggestion list
 
 ## 2020-08-17
 ### Added
