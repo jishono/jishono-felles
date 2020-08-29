@@ -2,18 +2,22 @@
 
 All notable changes to the jisho.no project (including API and Baksida) will be documented in this file.
 
+## 2020-08-29
+
+### Changed
+- Baksida: Only 3 upvotes (previously 5) are now required for a suggestion to be added to the dictionary
+
 ## 2020-08-22
 ### Added
-- Baksida: Ability do delete your own wall posts (innlegg på veggen)
+- Baksida: Ability to delete your own wall posts (innlegg på veggen)
 ![profil](https://github.com/jishono/jishono-felles/raw/master/img/200822_1.PNG)
 
 ### Changed
 - Baksida: Posts on the wall are now sorted with the thread with the newest post/reply first
 
-
 ## 2020-08-19
 ### Added
-- Baksida: It's now possible to create a new suggestion by click an existing word in the suggestion list
+- Baksida: It's now possible to create a new suggestion by clicking an existing word in the suggestion list
 
 ## 2020-08-17
 ### Added
