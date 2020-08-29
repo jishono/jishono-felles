@@ -5,7 +5,7 @@ All notable changes to the jisho.no project (including API and Baksida) will be 
 ## 2020-08-29
 
 ### Changed
-- Baksida: Only 3 upvotes (previously 5) are now required for a suggestion to be added to the dictionary
+- Baksida: Only 3 votes (previously 5) are now required for a suggestion to be added to the dictionary or to be rejected.
 
 ## 2020-08-22
 ### Added
