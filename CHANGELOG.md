@@ -5,6 +5,7 @@ All notable changes to the jisho.no project (including API and Baksida) will be 
 ## 2020-09-18
 ### Added
 - Baksida: You can now add comments while adding new suggestions
+
 ![profil](https://github.com/jishono/jishono-felles/raw/master/img/200918_1.PNG)
 
 ## 2020-08-29
