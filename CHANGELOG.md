@@ -2,6 +2,17 @@
 
 All notable changes to the jisho.no project (including API and Baksida) will be documented in this file.
 
+## 2020-10-11
+- Major update to the jisho.no front page
+### Added
+- Example sentences from Tatoeba
+- Request button to request a translation of a word
+- Feedback function to comment if the user finds mistakes etc.
+- Choose interface language (Norwegian/Japanese)
+
+### Changed
+- Design overhaul
+
 ## 2020-09-18
 ### Added
 - Baksida: You can now add comments while adding new suggestions
