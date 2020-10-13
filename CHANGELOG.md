@@ -2,6 +2,11 @@
 
 All notable changes to the jisho.no project (including API and Baksida) will be documented in this file.
 
+## 2020-10-12
+### Added
+- Baksida: Overview over what translation requests have been made by jisho.no users
+![profil](https://github.com/jishono/jishono-felles/raw/master/img/201012_1.PNG)
+
 ## 2020-10-11
 - Major update to the jisho.no front page
 ### Added
