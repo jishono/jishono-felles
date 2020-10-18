@@ -2,6 +2,13 @@
 
 All notable changes to the jisho.no project (including API and Baksida) will be documented in this file.
 
+## 2020-10-18
+### Added
+- Baksida: Functionality to add new word suggestions (oppslag) for users from the search page.
+![profil](https://github.com/jishono/jishono-felles/raw/master/img/201018_1.PNG)
+- Baksida: All suggestions can be seen on a new page and admins can approve/reject these.
+![profil](https://github.com/jishono/jishono-felles/raw/master/img/201018_2.PNG)
+
 ## 2020-10-12
 ### Added
 - Baksida: Overview over what translation requests have been made by jisho.no users
