@@ -2,6 +2,12 @@
 
 All notable changes to the jisho.no project (including API and Baksida) will be documented in this file.
 
+## 2020-10-29
+### Added
+- jisho.no: Added 6715 translations generated from Wikipedia page links. Only proper nouns and nouns with no homographs were used to increase the quality. Wikipedia-translated definitions are marked like seen below.
+- Baksida: Now possible to filter by wikipedia-translations on the search page
+![profil](https://github.com/jishono/jishono-felles/raw/master/img/201029_1.PNG)
+
 ## 2020-10-18
 ### Added
 - Baksida: Functionality to add new word suggestions (oppslag) for users from the search page.
